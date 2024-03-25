@@ -20,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${merriweather.className} w-[90%] lg:w-[85%] m-auto pt-[20px] lg:pt-[50px] bg-[#06070A] text-[white]`}>
+      <body className={`${merriweather.className} w-[90%] lg:w-[85%] m-auto pt-[20px] lg:pt-[50px] pb-[10px] bg-[#06070A] text-[white]`}>
         <Header/>
         {children}
       </body>
