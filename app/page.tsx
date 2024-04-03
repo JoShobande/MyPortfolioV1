@@ -1,4 +1,5 @@
 
+
 export default function Home() {
   return (
     <main className=' mt-[80px] lg:mt-[100px]'>
@@ -12,7 +13,7 @@ export default function Home() {
           <div className='lg:w-[50%] text-[14px] lg:text-[18px] text-[#707FB7] mt-[20px] lg:mt-[0]'>
             <p>
               I am a passionate Front-End Developer with a keen eye for user-centric design and a knack for crafting engaging web experiences.
-              With 3+ years of experience in web development, I specialize in briging designs to live using the latest frontend technologies.
+              With 3+ years of experience in front-end development, I specialize in bringing designs to live using the latest frontend technologies.
             </p>
             <p className='mt-[20px]'>
               My goal is to create intuitive, responsive and visually appealing websites.

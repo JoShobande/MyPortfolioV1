@@ -5,22 +5,6 @@ const Skills = () => {
 
     const skills = [
         {
-            name: 'Javascript',
-            level: '95%'
-        },
-        {
-            name: 'Typescript',
-            level: '80%'
-        },
-        {
-            name: 'React',
-            level: '98%'
-        },
-        {
-            name: 'Next',
-            level: '80%'
-        },
-        {
             name: 'HTML',
             level: '100%'
         },
@@ -33,7 +17,24 @@ const Skills = () => {
             level: '98%'
         },
         {
-            name: 'Tailwind',
+            name: 'Javascript',
+            level: '95%'
+        },
+        {
+            name: 'Typescript',
+            level: '80%'
+        },
+        {
+            name: 'React JS',
+            level: '98%'
+        },
+        {
+            name: 'Next JS',
+            level: '80%'
+        },
+      
+        {
+            name: 'Tailwind CSS',
             level: '98%'
         },
         {
@@ -72,8 +73,8 @@ const Skills = () => {
                             
                         </div>
                         <div className='ml-[20px]'>
-                            <p>2009-2010</p>
-                            <p>consectetur adipiscing elit. Non mass dolor. </p>
+                        <p>April 2022 - April 2024</p>
+                            <p>Prophius Limited - Front-End Engineer</p>
                         </div>
                         
                     </div>
@@ -86,8 +87,8 @@ const Skills = () => {
                             
                         </div>
                         <div className='ml-[20px]'>
-                            <p>2009-2010</p>
-                            <p>consectetur adipiscing elit. Non mass dolor. </p>
+                            <p>August 2020 - March 2022</p>
+                            <p>IQube Labs - Software Engineer</p>
                         </div>
                         
                     </div>
@@ -100,22 +101,18 @@ const Skills = () => {
                             
                         </div>
                         <div className='ml-[20px]'>
-                            <p>2009-2010</p>
-                            <p>consectetur adipiscing elit. Non mass dolor. </p>
+                            <p>June 2019 - August 2019</p>
+                            <p>IQube Labs - Software Engineering Intern</p>
                         </div>
                         
                     </div>
                     <div className='flex'>
                         <div>
                             <div className='w-[32px] h-[32px] rounded-full border  border-[#66CCFF]'/>
-                            {/* <div className='flex flex-col items-center'>
-                                <div className='h-[100px] bg-white w-[1px] mt-[10px]'/>
-                            </div> */}
-                            
                         </div>
                         <div className='ml-[20px]'>
-                            <p>2009-2010</p>
-                            <p>consectetur adipiscing elit. Non mass dolor. </p>
+                            <p>January 2019 - May 2019</p>
+                            <p>Citiserve Limited - Web developer Intern</p>
                         </div>
                         
                     </div>
