@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Endowd",
+        "description": "Endowd is a web platform to enable International Students fufill their educational and post educational dreams with ease. Support includes application support, tuition payment and day to day financial services",
+        "link": "https://www.endowd.africa/",
+        "technology":["Next JS", "Typescript", "Tailwind CSS"],
+        "image": "/project1.png"
+
+    },
+    {
+        "name": "Heritage Men's Clinic",
+        "description": "HMC is a web platform to enable Men of all ages to find solution to various sexual problems without surgery. Patients can book appointments via the platform",
+        "link": "https://heritagemensclinic.ng/",
+        "technology":["HTML", "CSS", "JavaScript"],
+        "image":"/project2.png"
+    },
+    {
+        "name": "My Portfolio",
+        "description": "Website to showcase my portfolio as a Front-End Developer",
+        "link": "",
+        "technology":["Next JS", "Typescript", "Tailwind CSS"],
+        "image":"/project2.png"
+    }
+]
